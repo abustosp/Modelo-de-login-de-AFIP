@@ -1,7 +1,7 @@
 {
-  "name": "Descarga DDJJ IVA",
+  "name": "Login-AFIP",
   "projectId": "ffc7bc86-3dfa-4be0-bb38-205985814369",
-  "description": "Bot para descargar masivamente las Delclaraciones Juradas de IVA del servicio de Mis Aplicaciones Web",
+  "description": "Modelo de bot para el inicio de sesión de AFIP",
   "main": "Descarga_DDJJ_IVA_AFIP.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
